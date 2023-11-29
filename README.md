@@ -4,6 +4,8 @@
 
 This project is a simple login application where registered users can log in and add more users to the database. It's built using Laravel for the backend, MySQL for the database, and React for the frontend.
 
+![Design of the application](/login-php.png)
+
 ## Technologies Used
 
 - Laravel
